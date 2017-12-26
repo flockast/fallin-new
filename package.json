@@ -1,0 +1,10 @@
+{
+  "name": "fallin-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7"
+  }
+}
